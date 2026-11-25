@@ -260,7 +260,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:132px;
+  width:148px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -272,18 +272,20 @@
   font-family:'IRKoodak', sans-serif;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1320 {
   border-width:0px;
   position:absolute;
   left:24px;
   top:126px;
-  width:132px;
+  width:148px;
   height:20px;
   display:flex;
   font-family:'IRKoodak', sans-serif;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1320 .text {
   position:absolute;
@@ -394,7 +396,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:148px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -407,19 +409,21 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1323 {
   border-width:0px;
   position:absolute;
   left:24px;
   top:156px;
-  width:133px;
+  width:148px;
   height:17px;
   display:flex;
   font-family:'IRKoodak', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1323 .text {
   position:absolute;
@@ -438,7 +442,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:131px;
+  width:148px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -451,19 +455,21 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1324 {
   border-width:0px;
   position:absolute;
   left:24px;
   top:184px;
-  width:131px;
+  width:148px;
   height:17px;
   display:flex;
   font-family:'IRKoodak', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  text-align:right;
 }
 #u1324 .text {
   position:absolute;
@@ -518,12 +524,12 @@
   width:87px;
   height:22px;
   padding:2px 2px 2px 2px;
-  font-family:'Arial', sans-serif;
-  font-weight:400;
+  font-family:'B Koodak Bold', 'B Koodak', sans-serif;
+  font-weight:700;
   font-style:normal;
-  font-size:13px;
+  font-size:9px;
   letter-spacing:normal;
-  color:#000000;
+  color:#333333;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -537,12 +543,12 @@
   width:87px;
   height:22px;
   padding:2px 2px 2px 2px;
-  font-family:'Arial', sans-serif;
-  font-weight:400;
+  font-family:'B Koodak Bold', 'B Koodak', sans-serif;
+  font-weight:700;
   font-style:normal;
-  font-size:13px;
+  font-size:9px;
   letter-spacing:normal;
-  color:#000000;
+  color:#333333;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -566,6 +572,11 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'B Koodak Bold', 'B Koodak', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:9px;
+  color:#333333;
 }
 #u1326 {
   border-width:0px;
@@ -575,6 +586,11 @@
   width:87px;
   height:22px;
   display:flex;
+  font-family:'B Koodak Bold', 'B Koodak', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:9px;
+  color:#333333;
 }
 #u1326 .text {
   position:absolute;
@@ -600,10 +616,18 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'B Koodak Bold', 'B Koodak', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:9px;
+  color:#333333;
 }
 #u1326.disabled {
 }
 .u1326_input_option {
+  font-weight:700;
+  font-style:normal;
+  font-size:9px;
 }
 #u1327_div {
   border-width:0px;
